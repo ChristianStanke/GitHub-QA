@@ -4,22 +4,41 @@
     "push": {
       "source": [
         {
+          "path": "./JSON/en/en.json",
+          "file_format": "react_nested_json",
+          "tag": "app:language.json",
+          "skipNonStringValues": true,
+          "language": "en"
+        },
+        {
           "path": "./Android-XML/en/en.xml",
           "file_format": "android_xml",
           "tag": "app:strings.xml",
-          "language": "en"
+          "language": "en",
+          "keepTagIds": true,
+          "key_prefix": "main_module_",
+          "remove_cr_char": true
         }
       ]
     },
     "pull": {
       "target": [
         {
-          "path": "./Android-XML/en/<language>.xml",
+          "path": "./JSON/<language>/<language>.json",
+          "file_format": "react_nested_json",
+          "tag": "app:language.json",
+          "exclude_languages": [
+            "en"
+          ]
+        },
+        {
+          "path": "./Android-XML/<language>/<language>.xml",
           "file_format": "android_xml",
           "tag": "app:strings.xml",
           "exclude_languages": [
             "en"
-          ]
+          ],
+          "key_prefix": "main_module_"
         }
       ]
     }

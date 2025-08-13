@@ -1,0 +1,313 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2">
+  <file source-language="en" datatype="plaintext" target-language="en" date="2025-08-13T10:41:35Z" product-name="My Fitness App 2" tool="Applanga">
+    <header>
+      <tool tool-name="Applanga"/>
+    </header>
+    <body>
+      <trans-unit id="Page_1.Health_App_-_Discover.Body.Content02.Content02.text" x-length-option="equals-source">
+        <source>FIT recıpes</source>
+        <context-group purpose="information">
+          <context context-type="x-applanga-source-context-url">https://dev.globallinkstrings.com/!/#/projects/66aa4f0e1a04de47492da2bc/languages/66aa4f0e1a04de47492da2be/entry/66aa4fb42515ac47509e6fd1/context</context>
+        </context-group>
+        <state>needs-review-translation</state>
+      </trans-unit>
+      <trans-unit id="Page_1.Health_App_-_Discover.Body.Content02.Content02.text.0" x-length-option="equals-source">
+        <source>5 Low-Carb Dinner Recipes </source>
+        <context-group purpose="information">
+          <context context-type="x-applanga-source-context-url">https://dev.globallinkstrings.com/!/#/projects/66aa4f0e1a04de47492da2bc/languages/66aa4f0e1a04de47492da2be/entry/66aa4fb42515ac47509e6fd2/context</context>
+        </context-group>
+        <state>needs-review-translation</state>
+      </trans-unit>
+      <trans-unit id="Page_1.Health_App_-_Discover.Body.Content01.Header.text" x-length-option="equals-source">
+        <source>Total Body Workout - 7 </source>
+        <context-group purpose="information">
+          <context context-type="x-applanga-source-context-url">https://dev.globallinkstrings.com/!/#/projects/66aa4f0e1a04de47492da2bc/languages/66aa4f0e1a04de47492da2be/entry/66aa4fb42515ac47509e6fd3/context</context>
+        </context-group>
+        <state>needs-review-translation</state>
+      </trans-unit>
+      <trans-unit id="Page_1.Health_App_-_Discover.Body.Content01.Header.text.0" x-length-option="equals-source">
+        <source>PILATES VIDEOS</source>
+        <context-group purpose="information">
+          <context context-type="x-applanga-source-context-url">https://dev.globallinkstrings.com/!/#/projects/66aa4f0e1a04de47492da2bc/languages/66aa4f0e1a04de47492da2be/entry/66aa4fb42515ac47509e6fd4/context</context>
+        </context-group>
+        <state>needs-review-translation</state>
+      </trans-unit>
+      <trans-unit id="Page_1.Health_App_-_Discover.Header.text" x-length-option="equals-source">
+        <source>Discover</source>
+        <context-group purpose="information">
+          <context context-type="x-applanga-source-context-url">https://dev.globallinkstrings.com/!/#/projects/66aa4f0e1a04de47492da2bc/languages/66aa4f0e1a04de47492da2be/entry/66aa4fb42515ac47509e6fd5/context</context>
+        </context-group>
+        <state>needs-review-translation</state>
+      </trans-unit>
+      <trans-unit id="Page_1.Health_App_-_Login.Body.text" x-length-option="equals-source">
+        <source>By Signing in you agree to Term of Service</source>
+        <context-group purpose="information">
+          <context context-type="x-applanga-source-context-url">https://dev.globallinkstrings.com/!/#/projects/66aa4f0e1a04de47492da2bc/languages/66aa4f0e1a04de47492da2be/entry/66aa4fb42515ac47509e6fd6/context</context>
+        </context-group>
+        <state>needs-review-translation</state>
+      </trans-unit>
+      <trans-unit id="Page_1.Health_App_-_Login.Body.Buttons.Facebook.text" x-length-option="equals-source">
+        <source>CONNECT WITH FACEBOOK</source>
+        <context-group purpose="information">
+          <context context-type="x-applanga-source-context-url">https://dev.globallinkstrings.com/!/#/projects/66aa4f0e1a04de47492da2bc/languages/66aa4f0e1a04de47492da2be/entry/66aa4fb42515ac47509e6fd7/context</context>
+        </context-group>
+        <state>needs-review-translation</state>
+      </trans-unit>
+      <trans-unit id="Page_1.Health_App_-_Login.Body.Buttons.Google.text" x-length-option="equals-source">
+        <source>CONNECT WITH GOOGLE</source>
+        <context-group purpose="information">
+          <context context-type="x-applanga-source-context-url">https://dev.globallinkstrings.com/!/#/projects/66aa4f0e1a04de47492da2bc/languages/66aa4f0e1a04de47492da2be/entry/66aa4fb42515ac47509e6fd8/context</context>
+        </context-group>
+        <state>needs-review-translation</state>
+      </trans-unit>
+      <trans-unit id="Page_1.Health_App_-_Login.Body.text.0" x-length-option="equals-source">
+        <source>First step to
+healthy lifestyle</source>
+        <context-group purpose="information">
+          <context context-type="x-applanga-source-context-url">https://dev.globallinkstrings.com/!/#/projects/66aa4f0e1a04de47492da2bc/languages/66aa4f0e1a04de47492da2be/entry/66aa4fb42515ac47509e6fd9/context</context>
+        </context-group>
+        <state>needs-review-translation</state>
+      </trans-unit>
+      <trans-unit id="Page_1.Health_App_Final-_Sleep.Body.Sleep_Score.Friday.Group_22.text" x-length-option="equals-source">
+        <source>75</source>
+        <context-group purpose="information">
+          <context context-type="x-applanga-source-context-url">https://dev.globallinkstrings.com/!/#/projects/66aa4f0e1a04de47492da2bc/languages/66aa4f0e1a04de47492da2be/entry/66aa4fb42515ac47509e6fda/context</context>
+        </context-group>
+        <state>needs-review-translation</state>
+      </trans-unit>
+      <trans-unit id="Page_1.Health_App_Final-_Sleep.Body.Sleep_Score.Friday.text" x-length-option="equals-source">
+        <source>F</source>
+        <context-group purpose="information">
+          <context context-type="x-applanga-source-context-url">https://dev.globallinkstrings.com/!/#/projects/66aa4f0e1a04de47492da2bc/languages/66aa4f0e1a04de47492da2be/entry/66aa4fb42515ac47509e6fdb/context</context>
+        </context-group>
+        <state>needs-review-translation</state>
+      </trans-unit>
+      <trans-unit id="Page_1.Health_App_Final-_Sleep.Body.Sleep_Score.Thursday.Group_21.text" x-length-option="equals-source">
+        <source>58</source>
+        <context-group purpose="information">
+          <context context-type="x-applanga-source-context-url">https://dev.globallinkstrings.com/!/#/projects/66aa4f0e1a04de47492da2bc/languages/66aa4f0e1a04de47492da2be/entry/66aa4fb42515ac47509e6fdc/context</context>
+        </context-group>
+        <state>needs-review-translation</state>
+      </trans-unit>
+      <trans-unit id="Page_1.Health_App_Final-_Sleep.Body.Sleep_Score.Thursday.text" x-length-option="equals-source">
+        <source>T</source>
+        <context-group purpose="information">
+          <context context-type="x-applanga-source-context-url">https://dev.globallinkstrings.com/!/#/projects/66aa4f0e1a04de47492da2bc/languages/66aa4f0e1a04de47492da2be/entry/66aa4fb42515ac47509e6fdd/context</context>
+        </context-group>
+        <state>needs-review-translation</state>
+      </trans-unit>
+      <trans-unit id="Page_1.Health_App_Final-_Sleep.Body.Sleep_Score.Wednesday.Group_20.text" x-length-option="equals-source">
+        <source>83</source>
+        <context-group purpose="information">
+          <context context-type="x-applanga-source-context-url">https://dev.globallinkstrings.com/!/#/projects/66aa4f0e1a04de47492da2bc/languages/66aa4f0e1a04de47492da2be/entry/66aa4fb42515ac47509e6fde/context</context>
+        </context-group>
+        <state>needs-review-translation</state>
+      </trans-unit>
+      <trans-unit id="Page_1.Health_App_Final-_Sleep.Body.Sleep_Score.Wednesday.text" x-length-option="equals-source">
+        <source>W</source>
+        <context-group purpose="information">
+          <context context-type="x-applanga-source-context-url">https://dev.globallinkstrings.com/!/#/projects/66aa4f0e1a04de47492da2bc/languages/66aa4f0e1a04de47492da2be/entry/66aa4fb42515ac47509e6fdf/context</context>
+        </context-group>
+        <state>needs-review-translation</state>
+      </trans-unit>
+      <trans-unit id="Page_1.Health_App_Final-_Sleep.Body.Sleep_Score.Tuesday.Group_19.text" x-length-option="equals-source">
+        <source>97</source>
+        <context-group purpose="information">
+          <context context-type="x-applanga-source-context-url">https://dev.globallinkstrings.com/!/#/projects/66aa4f0e1a04de47492da2bc/languages/66aa4f0e1a04de47492da2be/entry/66aa4fb42515ac47509e6fe0/context</context>
+        </context-group>
+        <state>needs-review-translation</state>
+      </trans-unit>
+      <trans-unit id="Page_1.Health_App_Final-_Sleep.Body.Sleep_Score.Monday.Group_18.text" x-length-option="equals-source">
+        <source>78</source>
+        <context-group purpose="information">
+          <context context-type="x-applanga-source-context-url">https://dev.globallinkstrings.com/!/#/projects/66aa4f0e1a04de47492da2bc/languages/66aa4f0e1a04de47492da2be/entry/66aa4fb42515ac47509e6fe1/context</context>
+        </context-group>
+        <state>needs-review-translation</state>
+      </trans-unit>
+      <trans-unit id="Page_1.Health_App_Final-_Sleep.Body.Sleep_Score.Monday.text" x-length-option="equals-source">
+        <source>M</source>
+        <context-group purpose="information">
+          <context context-type="x-applanga-source-context-url">https://dev.globallinkstrings.com/!/#/projects/66aa4f0e1a04de47492da2bc/languages/66aa4f0e1a04de47492da2be/entry/66aa4fb42515ac47509e6fe2/context</context>
+        </context-group>
+        <state>needs-review-translation</state>
+      </trans-unit>
+      <trans-unit id="Page_1.Health_App_Final-_Sleep.Body.Sleep_Score.Sleep_Score.text" x-length-option="equals-source">
+        <source>74</source>
+        <context-group purpose="information">
+          <context context-type="x-applanga-source-context-url">https://dev.globallinkstrings.com/!/#/projects/66aa4f0e1a04de47492da2bc/languages/66aa4f0e1a04de47492da2be/entry/66aa4fb42515ac47509e6fe3/context</context>
+        </context-group>
+        <state>needs-review-translation</state>
+      </trans-unit>
+      <trans-unit id="Page_1.Health_App_Final-_Sleep.Body.Sleep_Score.Sleep_Score.text.0" x-length-option="equals-source">
+        <source>SLEEP SCORE</source>
+        <context-group purpose="information">
+          <context context-type="x-applanga-source-context-url">https://dev.globallinkstrings.com/!/#/projects/66aa4f0e1a04de47492da2bc/languages/66aa4f0e1a04de47492da2be/entry/66aa4fb42515ac47509e6fe4/context</context>
+        </context-group>
+        <state>needs-review-translation</state>
+      </trans-unit>
+      <trans-unit id="Page_1.Health_App_Final-_Sleep.Body.Bar_Chart.Legend.Awake.text" x-length-option="equals-source">
+        <source>Awake</source>
+        <context-group purpose="information">
+          <context context-type="x-applanga-source-context-url">https://dev.globallinkstrings.com/!/#/projects/66aa4f0e1a04de47492da2bc/languages/66aa4f0e1a04de47492da2be/entry/66aa4fb42515ac47509e6fe5/context</context>
+        </context-group>
+        <state>needs-review-translation</state>
+      </trans-unit>
+      <trans-unit id="Page_1.Health_App_Final-_Sleep.Body.Bar_Chart.Legend.Deep.text" x-length-option="equals-source">
+        <source>Deep</source>
+        <context-group purpose="information">
+          <context context-type="x-applanga-source-context-url">https://dev.globallinkstrings.com/!/#/projects/66aa4f0e1a04de47492da2bc/languages/66aa4f0e1a04de47492da2be/entry/66aa4fb42515ac47509e6fe6/context</context>
+        </context-group>
+        <state>needs-review-translation</state>
+      </trans-unit>
+      <trans-unit id="Page_1.Health_App_Final-_Sleep.Body.Bar_Chart.Legend.Light.text" x-length-option="equals-source">
+        <source>Light</source>
+        <context-group purpose="information">
+          <context context-type="x-applanga-source-context-url">https://dev.globallinkstrings.com/!/#/projects/66aa4f0e1a04de47492da2bc/languages/66aa4f0e1a04de47492da2be/entry/66aa4fb42515ac47509e6fe7/context</context>
+        </context-group>
+        <state>needs-review-translation</state>
+      </trans-unit>
+      <trans-unit id="Page_1.Health_App_Final-_Sleep.Body.Bar_Chart.text" x-length-option="equals-source">
+        <source>01.13</source>
+        <context-group purpose="information">
+          <context context-type="x-applanga-source-context-url">https://dev.globallinkstrings.com/!/#/projects/66aa4f0e1a04de47492da2bc/languages/66aa4f0e1a04de47492da2be/entry/66aa4fb42515ac47509e6fe8/context</context>
+        </context-group>
+        <state>needs-review-translation</state>
+      </trans-unit>
+      <trans-unit id="Page_1.Health_App_Final-_Sleep.Body.Bar_Chart.text.0" x-length-option="equals-source">
+        <source>6h52</source>
+        <context-group purpose="information">
+          <context context-type="x-applanga-source-context-url">https://dev.globallinkstrings.com/!/#/projects/66aa4f0e1a04de47492da2bc/languages/66aa4f0e1a04de47492da2be/entry/66aa4fb42515ac47509e6fe9/context</context>
+        </context-group>
+        <state>needs-review-translation</state>
+      </trans-unit>
+      <trans-unit id="Page_1.Health_App_Final-_Sleep.Body.Bar_Chart.text.1" x-length-option="equals-source">
+        <source>09.24</source>
+        <context-group purpose="information">
+          <context context-type="x-applanga-source-context-url">https://dev.globallinkstrings.com/!/#/projects/66aa4f0e1a04de47492da2bc/languages/66aa4f0e1a04de47492da2be/entry/66aa4fb42515ac47509e6fea/context</context>
+        </context-group>
+        <state>needs-review-translation</state>
+      </trans-unit>
+      <trans-unit id="Page_1.Health_App_Final-_Sleep.Header.Today.text" x-length-option="equals-source">
+        <source>TODAY</source>
+        <context-group purpose="information">
+          <context context-type="x-applanga-source-context-url">https://dev.globallinkstrings.com/!/#/projects/66aa4f0e1a04de47492da2bc/languages/66aa4f0e1a04de47492da2be/entry/66aa4fb42515ac47509e6feb/context</context>
+        </context-group>
+        <state>needs-review-translation</state>
+      </trans-unit>
+      <trans-unit id="Page_1.Health_App_Final-_Sleep.Header.text" x-length-option="equals-source">
+        <source>Sleep</source>
+        <context-group purpose="information">
+          <context context-type="x-applanga-source-context-url">https://dev.globallinkstrings.com/!/#/projects/66aa4f0e1a04de47492da2bc/languages/66aa4f0e1a04de47492da2be/entry/66aa4fb42515ac47509e6fec/context</context>
+        </context-group>
+        <state>needs-review-translation</state>
+      </trans-unit>
+      <trans-unit id="Page_1.Health_App_-_Summary.Body.Summary.Summary.Eaten.Text.text" x-length-option="equals-source">
+        <source>1250{family: Lato; style: Bold; weight: 700;}    </source>
+        <context-group purpose="information">
+          <context context-type="x-applanga-source-context-url">https://dev.globallinkstrings.com/!/#/projects/66aa4f0e1a04de47492da2bc/languages/66aa4f0e1a04de47492da2be/entry/66aa4fb42515ac47509e6fed/context</context>
+        </context-group>
+        <state>needs-review-translation</state>
+      </trans-unit>
+      <trans-unit id="Page_1.Health_App_-_Summary.Body.Summary.Summary.Eaten.Text.text.0" x-length-option="equals-source">
+        <source>kcal</source>
+        <context-group purpose="information">
+          <context context-type="x-applanga-source-context-url">https://dev.globallinkstrings.com/!/#/projects/66aa4f0e1a04de47492da2bc/languages/66aa4f0e1a04de47492da2be/entry/66aa4fb42515ac47509e6fee/context</context>
+        </context-group>
+        <state>needs-review-translation</state>
+      </trans-unit>
+      <trans-unit id="Page_1.Health_App_-_Summary.Body.Summary.Summary.Eaten.text" x-length-option="equals-source">
+        <source>EATEN</source>
+        <context-group purpose="information">
+          <context context-type="x-applanga-source-context-url">https://dev.globallinkstrings.com/!/#/projects/66aa4f0e1a04de47492da2bc/languages/66aa4f0e1a04de47492da2be/entry/66aa4fb42515ac47509e6fef/context</context>
+        </context-group>
+        <state>needs-review-translation</state>
+      </trans-unit>
+      <trans-unit id="Page_1.Health_App_-_Summary.Body.Summary.Summary.Burnt.Text.text" x-length-option="equals-source">
+        <source>302</source>
+        <context-group purpose="information">
+          <context context-type="x-applanga-source-context-url">https://dev.globallinkstrings.com/!/#/projects/66aa4f0e1a04de47492da2bc/languages/66aa4f0e1a04de47492da2be/entry/66aa4fb42515ac47509e6ff0/context</context>
+        </context-group>
+        <state>needs-review-translation</state>
+      </trans-unit>
+      <trans-unit id="Page_1.Health_App_-_Summary.Body.Summary.Summary.Burnt.text" x-length-option="equals-source">
+        <source>BURNT</source>
+        <context-group purpose="information">
+          <context context-type="x-applanga-source-context-url">https://dev.globallinkstrings.com/!/#/projects/66aa4f0e1a04de47492da2bc/languages/66aa4f0e1a04de47492da2be/entry/66aa4fb42515ac47509e6ff1/context</context>
+        </context-group>
+        <state>needs-review-translation</state>
+      </trans-unit>
+      <trans-unit id="Page_1.Health_App_-_Summary.Body.Summary.Summary.Walking.text" x-length-option="equals-source">
+        <source>WALKING</source>
+        <context-group purpose="information">
+          <context context-type="x-applanga-source-context-url">https://dev.globallinkstrings.com/!/#/projects/66aa4f0e1a04de47492da2bc/languages/66aa4f0e1a04de47492da2be/entry/66aa4fb42515ac47509e6ff2/context</context>
+        </context-group>
+        <state>needs-review-translation</state>
+      </trans-unit>
+      <trans-unit id="Page_1.Health_App_-_Summary.Body.Summary.Summary.Walking.Doughnut_Chart.text" x-length-option="equals-source">
+        <source>%{size: 14; spacing: -4PERCENT;} {size: 13; spacing: 0PERCENT;}64</source>
+        <context-group purpose="information">
+          <context context-type="x-applanga-source-context-url">https://dev.globallinkstrings.com/!/#/projects/66aa4f0e1a04de47492da2bc/languages/66aa4f0e1a04de47492da2be/entry/66aa4fb42515ac47509e6ff3/context</context>
+        </context-group>
+        <state>needs-review-translation</state>
+      </trans-unit>
+      <trans-unit id="Page_1.Health_App_-_Summary.Body.Summary.Summary.Walking.text.0" x-length-option="equals-source">
+        <source>5.7{size: 22;} {size: 18; spacing: -20PERCENT; height: 16PIXELS;} {spacing: -30PERCENT;} {size: 12; spacing: 0PERCENT;}km{size: 18; family: Lato; style: Regular; height: 12PIXELS; weight: 400;} </source>
+        <context-group purpose="information">
+          <context context-type="x-applanga-source-context-url">https://dev.globallinkstrings.com/!/#/projects/66aa4f0e1a04de47492da2bc/languages/66aa4f0e1a04de47492da2be/entry/66aa4fb42515ac47509e6ff4/context</context>
+        </context-group>
+        <state>needs-review-translation</state>
+      </trans-unit>
+      <trans-unit id="Page_1.Health_App_-_Summary.Body.Chart_-_Daily_Steps.Chart.14.2_K.text" x-length-option="equals-source">
+        <source>14.2{spacing: -15PERCENT;} {family: Lato; style: Regular; weight: 400;}k</source>
+        <context-group purpose="information">
+          <context context-type="x-applanga-source-context-url">https://dev.globallinkstrings.com/!/#/projects/66aa4f0e1a04de47492da2bc/languages/66aa4f0e1a04de47492da2be/entry/66aa4fb42515ac47509e6ff5/context</context>
+        </context-group>
+        <state>needs-review-translation</state>
+      </trans-unit>
+      <trans-unit id="Page_1.Health_App_-_Summary.Body.Chart_-_Daily_Steps.Time.text" x-length-option="equals-source">
+        <source>09 00</source>
+        <context-group purpose="information">
+          <context context-type="x-applanga-source-context-url">https://dev.globallinkstrings.com/!/#/projects/66aa4f0e1a04de47492da2bc/languages/66aa4f0e1a04de47492da2be/entry/66aa4fb42515ac47509e6ff6/context</context>
+        </context-group>
+        <state>needs-review-translation</state>
+      </trans-unit>
+      <trans-unit id="Page_1.Health_App_-_Summary.Body.Chart_-_Daily_Steps.Time.text.0" x-length-option="equals-source">
+        <source>17 00</source>
+        <context-group purpose="information">
+          <context context-type="x-applanga-source-context-url">https://dev.globallinkstrings.com/!/#/projects/66aa4f0e1a04de47492da2bc/languages/66aa4f0e1a04de47492da2be/entry/66aa4fb42515ac47509e6ff7/context</context>
+        </context-group>
+        <state>needs-review-translation</state>
+      </trans-unit>
+      <trans-unit id="Page_1.Health_App_-_Summary.Body.Chart_-_Daily_Steps.Time.text.1" x-length-option="equals-source">
+        <source>13 00</source>
+        <context-group purpose="information">
+          <context context-type="x-applanga-source-context-url">https://dev.globallinkstrings.com/!/#/projects/66aa4f0e1a04de47492da2bc/languages/66aa4f0e1a04de47492da2be/entry/66aa4fb42515ac47509e6ff8/context</context>
+        </context-group>
+        <state>needs-review-translation</state>
+      </trans-unit>
+      <trans-unit id="Page_1.Health_App_-_Summary.Body.Chart_-_Daily_Steps.Time.text.2" x-length-option="equals-source">
+        <source>21 00</source>
+        <context-group purpose="information">
+          <context context-type="x-applanga-source-context-url">https://dev.globallinkstrings.com/!/#/projects/66aa4f0e1a04de47492da2bc/languages/66aa4f0e1a04de47492da2be/entry/66aa4fb42515ac47509e6ff9/context</context>
+        </context-group>
+        <state>needs-review-translation</state>
+      </trans-unit>
+      <trans-unit id="Page_1.Health_App_-_Summary.Body.Edit.text" x-length-option="equals-source">
+        <source>EDIT</source>
+        <context-group purpose="information">
+          <context context-type="x-applanga-source-context-url">https://dev.globallinkstrings.com/!/#/projects/66aa4f0e1a04de47492da2bc/languages/66aa4f0e1a04de47492da2be/entry/66aa4fb42515ac47509e6ffa/context</context>
+        </context-group>
+        <state>needs-review-translation</state>
+      </trans-unit>
+      <trans-unit id="Page_1.Health_App_-_Summary.Header.Today.text" x-length-option="equals-source">
+        <source>Summary</source>
+        <context-group purpose="information">
+          <context context-type="x-applanga-source-context-url">https://dev.globallinkstrings.com/!/#/projects/66aa4f0e1a04de47492da2bc/languages/66aa4f0e1a04de47492da2be/entry/66aa4fb42515ac47509e6ffb/context</context>
+        </context-group>
+        <state>x-Priority</state>
+        <note from="comment">This is a test comment</note>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

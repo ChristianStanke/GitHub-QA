@@ -2,7 +2,7 @@ name: Push Source Files to Applanga
 on:
   push:
     branches:
-      - main
+      - Dev
     paths:
       - Android-XML/en/en.xml
   workflow_dispatch:

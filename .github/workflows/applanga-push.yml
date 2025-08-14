@@ -5,6 +5,8 @@ on:
       - main
     paths:
       - JSON/en/en.json
+      - xliff/en/en.xliff
+      - Excel/en/en.xlsx
       - Android-XML/en/en.xml
   workflow_dispatch:
     inputs:

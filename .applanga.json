@@ -11,6 +11,37 @@
           "language": "en"
         },
         {
+          "path": "./xliff/en/en.xliff",
+          "file_format": "xliff",
+          "tag": "Xliff File",
+          "onlyAsDraft": true,
+          "importStatus": true,
+          "createUnknownCustomStates": true,
+          "skipLockedTranslations": true,
+          "skipEmptyTranslations": true,
+          "key_prefix": "xliff_",
+          "language": "en"
+        },
+        {
+          "path": "./Excel/en/en.xlsx",
+          "file_format": "xls",
+          "tag": "Excel File",
+          "columnDescription": {
+            "KEY": 0,
+            "en": 1,
+            "DESCRIPTION": 2,
+            "LENGTH": 3,
+            "METADATA_Tags": "4",
+            "METADATA_last_update_by_OX_user": "5",
+            "METADATA_namespace": "6",
+            "METADATA_release": "7",
+            "METADATA_enhReference": "8",
+            "METADATA_send_date": "9"
+          },
+          "excludeHeaderRow": true,
+          "language": "en"
+        },
+        {
           "path": "./Android-XML/en/en.xml",
           "file_format": "android_xml",
           "tag": "app:strings.xml",
@@ -27,6 +58,42 @@
           "path": "./JSON/<language>/<language>.json",
           "file_format": "react_nested_json",
           "tag": "app:language.json",
+          "exclude_languages": [
+            "en"
+          ]
+        },
+        {
+          "path": "./xliff/<language>/<language>.xliff",
+          "file_format": "xliff",
+          "tag": "Xliff File",
+          "key_prefix": "xliff_",
+          "includeContextUrl": true,
+          "includeMetadata": true,
+          "export_empty": true,
+          "includeStatus": true,
+          "exclude_languages": [
+            "en"
+          ]
+        },
+        {
+          "path": "./Excel/<language>/<language>.xlsx",
+          "file_format": "xls",
+          "tag": "Excel File",
+          "excludeHeaderRow": true,
+          "excludeBaseLang": true,
+          "columnDescription": {
+            "KEY": 0,
+            "DESCRIPTION": 2,
+            "LENGTH": 3,
+            "METADATA_Tags": "4",
+            "METADATA_last_update_by_OX_user": "5",
+            "METADATA_namespace": "6",
+            "METADATA_release": "7",
+            "METADATA_enhReference": "8",
+            "METADATA_send_date": "9",
+            "<language>": 1
+          },
+          "includeMetadata": true,
           "exclude_languages": [
             "en"
           ]

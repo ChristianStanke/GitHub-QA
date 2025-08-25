@@ -8,7 +8,11 @@
           "file_format": "react_nested_json",
           "tag": "app:language.json",
           "skipNonStringValues": true,
-          "language": "en"
+          "language": "en",
+          "remove_cr_char": false,
+          "disable_plurals": false,
+          "keepTagIds": false,
+          "key_prefix": "blub"
         },
         {
           "path": "./xliff/en/en.xliff",
@@ -46,7 +50,6 @@
           "file_format": "android_xml",
           "tag": "app:strings.xml",
           "language": "en",
-          "keepTagIds": true,
           "key_prefix": "main_module_",
           "remove_cr_char": true
         }
@@ -60,7 +63,8 @@
           "tag": "app:language.json",
           "exclude_languages": [
             "en"
-          ]
+          ],
+          "key_prefix": "blub"
         },
         {
           "path": "./xliff/<language>/<language>.xliff",

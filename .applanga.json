@@ -34,13 +34,7 @@
             "KEY": 0,
             "en": 1,
             "DESCRIPTION": 2,
-            "LENGTH": 3,
-            "METADATA_Tags": "4",
-            "METADATA_last_update_by_OX_user": "5",
-            "METADATA_namespace": "6",
-            "METADATA_release": "7",
-            "METADATA_enhReference": "8",
-            "METADATA_send_date": "9"
+            "LENGTH": 3
           },
           "excludeHeaderRow": true,
           "language": "en"
@@ -89,12 +83,6 @@
             "KEY": 0,
             "DESCRIPTION": 2,
             "LENGTH": 3,
-            "METADATA_Tags": "4",
-            "METADATA_last_update_by_OX_user": "5",
-            "METADATA_namespace": "6",
-            "METADATA_release": "7",
-            "METADATA_enhReference": "8",
-            "METADATA_send_date": "9",
             "<language>": 1
           },
           "includeMetadata": true,

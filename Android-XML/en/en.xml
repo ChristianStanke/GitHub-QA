@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
-  <string name="pipe">|</string>
+  <string name="pipe">Change</string>
   <string name="filter_title">&lt;strong&gt;{{0}}: &lt;/strong&gt; {{1}} CHANGE</string>
   <string name="button_cancel">Cancel</string>
   <string name="button_close">Close</string>

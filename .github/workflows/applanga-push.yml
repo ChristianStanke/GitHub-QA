@@ -4,7 +4,6 @@ on:
     branches:
       - default
     paths:
-      - JSON/en/en.json
       - Android-XML/en/en.xml
   workflow_dispatch:
     inputs:

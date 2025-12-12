@@ -4,7 +4,6 @@ on:
     branches:
       - Dev
     paths:
-      - JSON/en/different.json
       - Android-XML/en/different.xml
   workflow_dispatch:
     inputs:

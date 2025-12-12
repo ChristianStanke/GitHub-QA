@@ -4,15 +4,9 @@
     "push": {
       "source": [
         {
-          "path": "./JSON/en/en.json",
-          "file_format": "react_nested_json",
-          "tag": "app:language.json",
-          "language": "en"
-        },
-        {
           "path": "./Android-XML/en/en.xml",
           "file_format": "android_xml",
-          "tag": "androidXML",
+          "tag": "app:strings.xml",
           "language": "en"
         }
       ]
@@ -20,17 +14,9 @@
     "pull": {
       "target": [
         {
-          "path": "./JSON/<language>/<language>.json",
-          "file_format": "react_nested_json",
-          "tag": "app:language.json",
-          "exclude_languages": [
-            "en"
-          ]
-        },
-        {
           "path": "./Android-XML/<language>/<language>.xml",
           "file_format": "android_xml",
-          "tag": "androidXML",
+          "tag": "app:strings.xml",
           "exclude_languages": [
             "en"
           ]

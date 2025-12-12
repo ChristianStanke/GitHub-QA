@@ -4,15 +4,9 @@
     "push": {
       "source": [
         {
-          "path": "./JSON/en/different.json",
-          "file_format": "react_simple_json",
-          "tag": "dev.different.json",
-          "language": "en"
-        },
-        {
           "path": "./Android-XML/en/different.xml",
           "file_format": "android_xml",
-          "tag": "dev.different.xml",
+          "tag": "different.xml",
           "language": "en"
         }
       ]
@@ -20,17 +14,9 @@
     "pull": {
       "target": [
         {
-          "path": "./JSON/<language>/<language>_different.json",
-          "file_format": "react_simple_json",
-          "tag": "dev.different.json",
-          "exclude_languages": [
-            "en"
-          ]
-        },
-        {
           "path": "./Android-XML/<language>/<language>_different.xml",
           "file_format": "android_xml",
-          "tag": "dev.different.xml",
+          "tag": "different.xml",
           "exclude_languages": [
             "en"
           ]
